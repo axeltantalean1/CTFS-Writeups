@@ -1,3 +1,5 @@
+EkoParty 2024
+
 En este desafío había para descargar un archivo toretto.bin. Al utilizar el comando file pude obtener la siguiente información
 
 ![](img1.png)
@@ -11,3 +13,5 @@ En el juego había que empujar unas cajas, era simple pero medio tosco. Después
 ![](img3.png)
 
 ![](img4.png)
+
+Preparé un script que utilice el comando file en el archivo y ver la salida. Luego, se ejecuta el emulador de NES con dicho archivo.
