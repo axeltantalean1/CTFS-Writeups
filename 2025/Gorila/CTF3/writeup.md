@@ -41,3 +41,11 @@ Ahí nos muestra el planeta enano Plutón con la flag en la descripción.
 
 > **vulnerabilidad:**
 > Injection (https://owasp.org/Top10/A03_2021-Injection/)
+
+---
+
+## 🛠️ Obtencion de la FLAG con script:
+
+Ejecutar el script `script.py` con Python para obtener la flag.
+
+---
