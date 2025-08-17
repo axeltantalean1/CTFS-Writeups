@@ -22,6 +22,7 @@ Se resolvieron los siguientes challenges:
 | --------- | --------- |
 | Shoe Shop 1.0 | Web |
 | Ransomware attack | Net |
+| Planets | Web |
 
 URL del team: [https://ctf.why2025.org/user?id=1618](https://ctf.why2025.org/user?id=1618)
 
