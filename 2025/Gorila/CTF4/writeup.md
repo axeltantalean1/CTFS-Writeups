@@ -82,7 +82,7 @@ fetch('https://planets.ctf.zone/api.php', {
 
 **Salida relevante (resumen):**
 
-![Flag en abandoned_planets](proof/4_flag.png)
+![Flag en abandoned_planets](images/flag_encontrada.png)
 *Lectura directa de `abandoned_planets` con la flag en `description`.*
 
 ---
